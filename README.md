@@ -58,7 +58,8 @@ To set up and run the project locally, follow these steps:
 - **Backend**:
   - Django: High-level Python web framework for rapid development and clean, pragmatic design.
   - Django REST Framework: Powerful and flexible toolkit for building Web APIs in Django.
-  - SQLite or PostgreSQL: Relational database management systems used for data storage.
+  - SQLite : Relational database management systems used for data storage.
+  - Swagger: API documentation tool for describing and visualizing RESTful APIs.
 
 ## License
 
